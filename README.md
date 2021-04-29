@@ -1,7 +1,5 @@
 # calculator
 
-Flutter project.
+FLUTTER PROJECT
 
-## Getting Started
-
-build an App Uisng Dart language that calculates Simple Interest When constumer Provides Input .
+Build an App Using Dart language that calculates Simple Interest When constumer Provides Input .
