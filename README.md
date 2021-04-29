@@ -2,4 +2,6 @@
 
 FLUTTER PROJECT
 
-Build an App Using Dart language that calculates Simple Interest When constumer Provides Input .
+Build an App Using Flutter with the help of Dart language for both Android and ios.
+this app takes constumer Input and calculates Simple Interest .
+
